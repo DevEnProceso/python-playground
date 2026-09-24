@@ -26,3 +26,8 @@ dist/
 
 # OS files
 .DS_Store
+
+# Archivos de salida del limpiador de datos (proyecto 05)
+*_LIMPIO.csv
+*_LIMPIO.xlsx
+*_LIMPIO.xls
