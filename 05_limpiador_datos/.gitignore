@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de salida de tus pruebas (limpiador de datos)
+*_LIMPIO.csv
+*_LIMPIO.xlsx
+*_LIMPIO.xls
+
+# Datos de prueba que no quieres subir
+datos_sucios.xlsx
+*.csv
+*.xlsx
+
+# Configuración de tu editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store

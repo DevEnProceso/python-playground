@@ -10,4 +10,5 @@ Un espacio personal donde guardo y guardaré ejercicios, proyectos pequeños y e
 | 02 | **Calculadora IMC** | Herramienta CLI interactiva con validación de datos y clasificación de salud. | Python | [Ver código](./02_calculadora_imc/main.py) |
 | 03 | **Conversor de Unidades** | Herramienta CLI para conversión de temperatura y distancia. | Python | [Ver código](./03_conversor_unidades/main.py) |
 | 04 | **Generador de Números** | Herramienta CLI para generar números aleatorios individuales o en listas. | Python, Random | [Ver código](./04_generador_numeros/main.py) |
+| 05 | **Limpiador de Datos** | Limpiador automático de datos en CSV/Excel. | Python, Pandas, Unicodedata | [Ver código](./05_limpiador_datos/main.py) |
 | ## | ---- | *Próximamente* | Python | — |
